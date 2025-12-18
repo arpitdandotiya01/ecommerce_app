@@ -1,24 +1,9 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Architecture Decisions
+Ruby on Rails monolith with API support
+PostgreSQL database
+Service Objects for business logic
+Pundit for authorization
+Devise for authentication
+Sidekiq for background jobs
+RSpec for testing
+GitHub Actions for CI/CD

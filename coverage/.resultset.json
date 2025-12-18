@@ -1,0 +1,55 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/arpitd/Desktop/Ruby/ecommerce_app/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          null,
+          null,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/home/arpitd/Desktop/Ruby/ecommerce_app/app/helpers/application_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/home/arpitd/Desktop/Ruby/ecommerce_app/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {}
+      },
+      "/home/arpitd/Desktop/Ruby/ecommerce_app/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      },
+      "/home/arpitd/Desktop/Ruby/ecommerce_app/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {}
+      }
+    },
+    "timestamp": 1766041442
+  }
+}

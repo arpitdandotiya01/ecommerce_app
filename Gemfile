@@ -64,3 +64,22 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+group :development, :test do
+  # Use RSpec for testing [https://rspec.info/]
+  gem "rspec-rails"
+end
+
+group :development do
+  gem "solargraph"
+end
+
+group :test do
+  gem "simplecov", require: false
+end
+
+group :development do
+  gem "rubocop", require: false
+  gem "rubocop-rspec", require: false
+  gem "rubocop-rails", require: false
+end
