@@ -83,3 +83,5 @@ group :development do
   gem "rubocop-rspec", require: false
   gem "rubocop-rails", require: false
 end
+
+gem "devise"
